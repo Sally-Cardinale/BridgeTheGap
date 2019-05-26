@@ -4,6 +4,8 @@ Bridge the Gap is application which aims  to create connections for individuals 
 affected by homelessness and those at risk. The motivation for the application's development
 is to use technology to assist the most vulnerable in our communities.
 
+Please visit our website at: https://limitless-lowlands-20086.herokuapp.com/
+
 When developing the design for this application, the user experience was very important. We
 wanted to create a design that was easy to understand and could provide real-time data both 
 to those in need as well as the agencies who serve them. Additionally, we wanted to be sure
